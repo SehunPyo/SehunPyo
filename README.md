@@ -3,4 +3,4 @@
 
 
 
-https://img.shields.io/badge/-JAVA-blue
+<img src="https://img.shields.io/badge/{HTML5}-{배경 색깔}?style={스타일}&logo={HTML5}&logoColor={E34F26}"/>

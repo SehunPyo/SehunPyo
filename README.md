@@ -47,6 +47,12 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 # 🐔Portfolio🐔
 
 🌒 무료 웹소설 플랫폼 "오작교"
+<li>
+사이트 링크 : https://sehunpyo.github.io/Portfolio/
+</li>
+<li>
+프로젝트 깃허브 : https://github.com/SehunPyo/Portfolio.git
+</li>
 
 </div> 
 

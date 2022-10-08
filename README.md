@@ -1,7 +1,7 @@
 <div align="center">
 
  <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=PYO%20SEHUN🤭&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=PYO%20SEHUN🤭&fontSize=50)
  
 <!-- 방문자 수-->
 Today / All
@@ -16,15 +16,16 @@ Today / All
 
 
 
-# 🥚My🥚
+### 🥚My🥚
 Hi There! i'm a backend web developer.
  
 My main skills are Java, Spring, MySQL and HTML, CSS.
 
 I want to be a creative and hard working developer 😊
 
-***
-# 🐣Tech Stacks🐣
+##
+
+### 🐣Tech Stacks🐣
 <!--
  
 뱃지 삽입하는 법
@@ -36,15 +37,15 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 <img src="https://img.shields.io/badge/JAVA-FF8787?style=flat&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/jQUERY-628E90?style=flat&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/ORACLE-EDEDED?style=flat&logo=Oracle&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-FD841F?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-FFDBA4?style=flat&logo=Spring Boot&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-607EAA?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FFEBAD?style=flat&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-D7C0AE?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-BFACE0?style=flat&logo=Bootstrap&logoColor=black"/>
-***
+##
 
-# 🐥Tool🐥
+### 🐥Tool🐥
 
 
 <img src="https://img.shields.io/badge/Visual Studio Code-4C6793?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9494?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-F8EDE3?style=flat&logo=Eclipse IDE&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-967E76?style=flat&logo=GitHub&logoColor=black"/>
-***
+##
 
-# 🐔Portfolio🐔
+### 🐔Portfolio🐔
 
 🌒 무료 웹소설 플랫폼 "오작교"
 <li>

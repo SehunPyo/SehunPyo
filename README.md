@@ -1,7 +1,7 @@
 <div align="center">
 
  <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=PYO%20SEHUN🤭&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=PYO%20SEHUN🤭&fontSize=50)
  
 <!-- 방문자 수-->
 Today / All

@@ -47,7 +47,10 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 
 ### 🐔Portfolio🐔
 
-🌒 무료 웹소설 플랫폼 "오작교"
+🌒 My BLOG
+https://mydeveloper.tistory.com/
+
+🌓 무료 웹소설 플랫폼 "오작교"
 <li>
 사이트 링크 : https://sehunpyo.github.io/Portfolio/
 </li>

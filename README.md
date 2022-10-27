@@ -47,8 +47,12 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 
 ### 🐔Portfolio🐔
 
-🌒 My BLOG
+🌒 My BLOG "나의 개발 일지"
+ 
 https://mydeveloper.tistory.com/
+
+ 
+ 
 
 🌓 무료 웹소설 플랫폼 "오작교"
 <li>

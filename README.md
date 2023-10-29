@@ -19,7 +19,7 @@ Today / All
 ### 🥚My🥚
 Hi There! i'm a backend web developer.
  
-My main skills are Java, Spring, MySQL and HTML, CSS.
+My main skills are Java, Spring, SQL and HTML, CSS, JavaScript, TypeScript.
 
 I want to be a creative and hard working developer 😊
 
@@ -49,18 +49,18 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
 
 🌒 My BLOG "나의 개발 일지"
  
-https://mydeveloper.tistory.com/
+오픈 중단
 
  
  
 
-🌓 무료 웹소설 플랫폼 "오작교"
+🌓 무료 웹소설 플랫폼 "티켓스냅"
 <li>
-사이트 링크 : https://sehunpyo.github.io/Portfolio/
+사이트 링크 : https://ticketsnap.netlify.app/
 </li>
-<li>
+<!-- <li>
 프로젝트 깃허브 : https://github.com/SehunPyo/Portfolio.git
-</li>
+</li> -->
 
 </div> 
 

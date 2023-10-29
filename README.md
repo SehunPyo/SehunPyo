@@ -54,7 +54,7 @@ https://simpleicons.org/ 이 사이트에서 검색해보고 나오는 것은 �
  
  
 
-🌓 무료 웹소설 플랫폼 "티켓스냅"
+🌓 신개념 온라인 심리테스트, 운세, 사주 사이트 "티켓스냅"
 <li>
 사이트 링크 : https://ticketsnap.netlify.app/
 </li>
